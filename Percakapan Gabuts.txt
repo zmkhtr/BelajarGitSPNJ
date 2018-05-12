@@ -10,4 +10,8 @@ oke selaw
 
 push rank atau ROS nih
 
+<<<<<<< HEAD
 push rank lah abis ini
+=======
+ayo
+>>>>>>> ec9682136d2b1e30dc139d9eecdb5863984e0974
